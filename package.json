@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-spam-be-gone-china",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "anti spam using both Akismet.com and StopForumSpam.com for Chinese users",
   "main": "index.js",
   "scripts": {
